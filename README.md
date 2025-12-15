@@ -56,3 +56,19 @@ Designed for administrators to remotely manage servers or workstations in a secu
 - This project is **not production-ready**.
 - Security, performance, and interface improvements are planned in future updates.
 - Intended only for testing, learning, and demonstration purposes.
+
+---
+
+## Demo / Screenshots
+
+### Login Page
+![Login Page](screenshots/43.png)
+
+### CMD Page
+![CMD Page](screenshots/32.png)
+
+### PowerShell Page
+![PowerShell Page](screenshots/31.png)
+
+### Screen Viewer
+![Screen Viewer](screenshots/45.jpg)
